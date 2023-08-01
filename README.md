@@ -8,5 +8,5 @@ For the current Arbitrum Nitro codebase, see [Nitro](https://github.com/Offchain
 
 - [Discord](https://discord.gg/ZpZuw7p)
 - [Developer guide](https://developer.offchainlabs.com)
-
+   
 This repository is offered under the Apache 2.0 license. See LICENSE for details.
